@@ -5,7 +5,7 @@
     Currently studying at <b>Simplon</b> <img src="https://www.est-ensemble.fr/sites/default/files/styles/large_slider/public/logo_simplon_simple_red1.png?itok=J7wPlX1N" width="15"/><br/>
   </p>
   <p>
-    Wanna contact me ? Send me a <a href="mailto:jamie@fakeemail.com" target="_blank">mail</a>
+    Wanna contact me ? Send me a <a href="mailto:hugowalando@gmail.com" target="_blank">mail</a>
   </p>
   <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/-RubyOnRails-D30002?style=flat-square&logo=ruby&logoColor=white" />
