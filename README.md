@@ -1,5 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1660415347/60611/waving-hand.gif?1660415347"/> Hi, Welcome to my page !</h1>
-  <p>I'm Hugo a junior web developer from the <b>Northern France</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>
+  <p>
+    I'm Hugo a junior web developer from the <b>Northern France</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/><br/>
+    I started learning web development in 2023 at <b>Le Wagon</b> <img alt="Le Wagon" src="https://d26jy9fbi4q9wx.cloudfront.net/assets/logo-ae2beeecce25d711f577b08deb9adfc6c02b673ed106b8d6c3da0f1721d9da33.svg" width="15"/>.<br/>
+    Currently studying at <b>Simplon</b> <img src=""/>
     <p>
       <img alt="JavaScript" src="https://img.shields.io/badge/-RubyOnRails-D30002?style=flat-square&logo=ruby&logoColor=white" />
       <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-EFD81B?style=flat-square&logo=javascript&logoColor=white" />
