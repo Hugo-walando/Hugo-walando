@@ -8,7 +8,7 @@
     🔗 Wanna contact me ? Send me a <a href="mailto:hugowalando@gmail.com" target="_blank">mail</a>
   </p>
   <p>
-    <img alt="JavaScript" src="https://img.shields.io/badge/-RubyOnRails-D30002?style=flat-square&logo=ruby&logoColor=white" />
+    <img alt="RubyOnRails" src="https://img.shields.io/badge/-RubyOnRails-D30002?style=flat-square&logo=ruby&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-EFD81B?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="VSCode"src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
