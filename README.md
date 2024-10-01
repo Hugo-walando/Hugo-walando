@@ -2,7 +2,7 @@
   <p>
     👨 I'm Hugo, a web developer from the <b>Northern France</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/>.<br/>
     💻 I started learning web development in 2023 at <b>Le Wagon</b> <img alt="Le Wagon" src="https://d26jy9fbi4q9wx.cloudfront.net/assets/logo-ae2beeecce25d711f577b08deb9adfc6c02b673ed106b8d6c3da0f1721d9da33.svg"          width="15"/>.<br/>
-    🎓 Currently studying at <b>Simplon</b><br/>
+    🎓 Currently learning <b>Next.js</b><br/>
   </p>
   <p>
     🔗 Wanna contact me ? Send me a <a href="mailto:hugowalando@gmail.com" target="_blank">mail</a>
